@@ -2,7 +2,7 @@
 iOS Weather App using Swift Storyboard
 # Weather App
 
-![App Screenshot](screenshot.png)
+<img src="screenshot.png" width="100">
 
 ## Description
 
@@ -18,8 +18,7 @@ The Weather App is a simple iOS application that provides real-time weather info
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+<img src="screenshot1.png" width="250"> <img src="screenshot2.png" width="250">
 
 ## Getting Started
 
