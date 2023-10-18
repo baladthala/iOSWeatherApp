@@ -4,7 +4,7 @@ iOS Weather App using Swift Storyboard
 
 ## Description
 
-The Weather App is a simple iOS application that provides real-time weather info
+The Weather App is a simple iOS application that provides real-time weather info of the User's current Location along with Weather data of Popular Cities 
 
 ## Screenshots
 
