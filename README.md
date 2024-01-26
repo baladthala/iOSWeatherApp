@@ -42,6 +42,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you have any questions or suggestions, feel free to contact me:
 - Your Name
   - GitHub: [GitHub](https://github.com/meanarchist)
-  - Email: tj2557@columbia.edu
+  - Email: tj2557@columbia.edu & br1839@srmist.edu.in
 # Credits
-This app was developed by Tharun Kumar Jayaprakash.
+This app was developed by Tharun Kumar Jayaprakash & Balamurugan R
